@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://arunm619.github.io/resume.pdf
+    pdf: https://github.com/Arunm619/arunm619.github.io/blob/main/_data/arun-resume.pdf
 
     languages:
       title: Languages
@@ -50,7 +50,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-                Passionate android develop with more than 3 years of professional experience. 
+                Passionate android developer with more than 3 years of professional experience. 
                 Love for problem solving by applying logical thinking. 
 
 education:
