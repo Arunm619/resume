@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Arun sudharsan
     tagline: Software Developer - Android
-    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile-pic-round.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: arunmsudharsan@gmail.com
@@ -41,13 +41,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Android Development
           link:
 
-        - item: Snowboarding
-          link:
-
-        - item: Cooking
+        - item: Music
           link:
 
 career-profile:
@@ -71,13 +68,18 @@ experiences:
         company: Meesho, Bangalore
         details: |
           Responsible for taking care of transaction flows in meesho app. 
-            - Built the add to cart and buy now animation in the meesho app as a separate custom component using state machine model and transition APIs. 
+            - Built Multi supplier cart which lets users add multiple products from multiple suppliers in the same order.
+            - Created Custom animation component buttons with state machine to render add to cart and buy now buttons animations in the main product showcase page of the app.          
+            - Created Buy Now Flow for Instant checking out of products with just two steps. 1. Review Screen and 2. Payment screen. 94% of the orders are made using Buy Now Flow.
+            - Integrated bank offers module from Juspay for displaying offers for payment instruments shown on payment page. These bank offers are configurable from Juspay dashboard.
             - All things and everything related to checkout, order summary and payment screens in the app.
       - role: SDE-1 
         time: Jan 2020 - Nov 2021
         company: Amazon, Chennai.
         details: |
          - Individual contributor working on various system applications of fireOS that powers millions of fire tablet devices.
+         - Built a feature from scratch for automatic Wifi Reconnect project which helps users reconnect to wifi after the password is changed on the router.
+         - Uplevelled Storage Manager and Wifi Settings Module from Android 9 to 11 in fireOS 8.
   
       - role: SDE 1
         time: Jan 2019 - Dec 2020
