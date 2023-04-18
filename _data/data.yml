@@ -41,10 +41,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Android Development
+        - item: Android Development 👨‍💻
           link:
 
-        - item: Music
+        - item: Music 🎵
           link:
 
 career-profile:
@@ -60,19 +60,10 @@ education:
       university: Anna University, Chennai
       time: 2015 - 2019
       details: |
-        Hello
-        The B.E. CSE program at Anna University is a challenging and comprehensive four-year undergraduate course that provides a solid foundation 
-        in computer science fundamentals, programming languages, and software development methodologies.
-        Throughout the program, I have acquired practical experience with various technologies and tools, such as data structures, algorithms, databases, operating systems, and software engineering practices.
     - degree: HSC in CS
       university: Sitadevi garodia Higher Secondary School
       time: 2014 - 2015
       details: |
-        In 2014-15, I completed my higher secondary education in computer science at Sitadevi Garodia Higher Secondary School.
-        The program provided me with a strong foundation in computer science concepts, including programming languages, data structures, algorithms, and software development methodologies.
-        Through hands-on projects and coursework, I gained practical experience with a variety of technologies, tools, and programming languages.
-        My education at Sitadevi Garodia Higher Secondary School has prepared me for further study in computer science and for pursuing a range of careers in the technology industry.
-
 
 experiences:
     title: Experiences
@@ -116,7 +107,8 @@ experiences:
 projects:
     title: Wear OS - Sound meter
     intro: >
-      Bought a new wear os watch from samsung. Got curious about wear os development and built a weekend project where the user can measure the decibels of sound pressure level in their surroundings.
+      Bought a new WearOS Watch from Samsung. Got curious about WearOS development and built a weekend project where the user can measure the decibels of sound pressure level in their surroundings. It's now Live on Playstore.
+     
  
 
 oss:
