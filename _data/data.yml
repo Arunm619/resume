@@ -16,9 +16,9 @@ sidebar:
     phone: +91 9940245619
     timezone: India Standard Timezone
     citizenship: Indian
-    website: blog.webjeda.com #do not add http://
+    website: arun-sudharsan.github.io/arunm619.github.io/ #do not add http://
     linkedin: arunm619
-    xing: alandoe
+    xing:
     github: arunm619
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://arunm619.github.io/resume.pdf
 
     languages:
       title: Languages
@@ -122,7 +122,7 @@ skills:
         level: 95%
 
       - name: System Design (HLD and LLD)
-        level: 85%
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by Arunm619
