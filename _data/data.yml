@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://github.com/Arunm619/arunm619.github.io/blob/main/_data/arun-resume.pdf
+    pdf: https://github.com/Arunm619/arunm619.github.io/raw/main/_data/arun-resume.pdf
 
     languages:
       title: Languages
